@@ -1,0 +1,35 @@
+# Link para baixar o Git Bash: https://git-scm.com/downloads
+
+O git bash é um terminal que permite o uso de comandos de versionamento do Git.
+Também inclui os comandos de shell, como Ssh, scp, cat, e find.
+ 
+                               ***Alguns comandos :)***
+
+git config: Configuração inicial do usuário no Git;
+ 
+git init: Inicia um novo repositório Git;
+ 
+git clone: Obtém uma cópia de um repositório Git existente;
+ 
+git add .: Adiciona um arquivo ao índice;
+ 
+git commit: Confirma as alterações no repositório;
+ 
+git push: Envia alterações para o repositório remoto;
+ 
+git pull: Busca e mescla alterações no repositório remoto para o repositório local;
+ 
+git status: Lista todos os arquivos que devem ser confirmados;
+ 
+git remote add origin <URL do repositório remoto>: Adiciona um repositório remoto;
+ 
+git branch: Cria, lista, renomeia e exclui ramificações;
+
+                              ***Anotações ^^***
+
+
+Para encontrar a chave SSH no Git Bash, ls -al ~/.ssh no Terminal. Com este comando, é possível verificar se existem chaves SSH e ver a listagem do diretório.
+Assim que localiza la, key ssh .pub, podemos copiar e colar no Github.
+
+anotacões do dia 03/10/2024 ;)
+
