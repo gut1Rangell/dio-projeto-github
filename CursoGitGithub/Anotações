@@ -31,5 +31,15 @@ git branch: Cria, lista, renomeia e exclui ramificações;
 Para encontrar a chave SSH no Git Bash, ls -al ~/.ssh no Terminal. Com este comando, é possível verificar se existem chaves SSH e ver a listagem do diretório.
 Assim que localiza la, key ssh .pub, podemos copiar e colar no Github.
 
+# Apresentação 
+## Markdown
+É uma linguagem de marcação simples originalmente, Markdown converte seu texto em HTML válido, é frequentemente usado para formatar arquivos README, para escrever mensagens em fóruns de discussão online e para criar rich text usando um editor de texto simples.
+
+> Marcando;
+>> Estilizando;
+>>> Rodando;    
+
+
+
 anotacões do dia 03/10/2024 ;)
 
