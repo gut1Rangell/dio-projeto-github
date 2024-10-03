@@ -8,8 +8,8 @@ Repositório criado para o desafio de projeto.
 ## Markdown
 É uma linguagem de marcação simples originalmente, Markdown converte seu texto em HTML válido, é frequentemente usado para formatar arquivos README, para escrever mensagens em fóruns de discussão online e para criar rich text usando um editor de texto simples.
 
-> Marcando;
->> Estilizando;
->>> Rodando;    
+> HTML;
+>> CSS;
+>>> JavaScript;    
 
 
